@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "type": "module",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4",
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
